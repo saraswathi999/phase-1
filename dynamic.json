@@ -1,0 +1,46 @@
+{
+"profile":{
+	"img":"pic.jpg",
+	"name":"PRABHAS",
+	"roll":"1",
+	"place":"Bhimavaram",
+	"des":"film actor"
+},
+"carrier":{
+	"info":"Creating and breaking my own records in film industry"
+},
+"education":[
+{
+	"sno":"1",
+	"degree":"btech",
+	"institute":"anapurna studios",
+	"per":"90",
+	"yop":"2014"
+},
+{
+	"sno":"2",
+	"degree":"intermediate",
+	"institute":"sri chaitanya",
+	"per":"97",
+	"yop":"2010"
+},
+{
+	"sno":"3",
+	"degree":"SSC",
+	"institute":"vidyanjali",
+	"per":"97",
+	"yop":"2008"
+}
+],
+"languages":[
+{
+	"lang":"english"
+},
+{
+	"lang":"telugu"
+},
+{
+	"lang":"hindi"
+}
+]
+}
